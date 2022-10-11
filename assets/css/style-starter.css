@@ -14494,7 +14494,7 @@ button.navbar-toggler.collapsed .icon-expand {
 }
 
 header {
-  background-color: var(--bg-color);
+  background-color: var(--bg-light);
   padding: 0px;
   transition: all 0.4s ease 0s;
   height: 90px;
@@ -14880,7 +14880,7 @@ nav ul li a:hover {
 }
 
 .w3l-banner {
-  margin-top: 90px;
+  /* margin-top: 90px; */
   background-color: var(--bg-light);
 }
 
@@ -14917,9 +14917,7 @@ span.cursor {
 }
 
 @media only screen and (max-width: 992px) {
-  .w3l-banner {
-    margin-top: 66px;
-  }
+  
 }
 
 @media only screen and (max-width: 568px) {
